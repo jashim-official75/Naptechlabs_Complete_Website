@@ -1,0 +1,43 @@
+/* ==============CONNECT SECTION START===============  */
+.connect-information {
+    background: #EBE7E1;
+    padding: 30px 50px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-bottom: 50px;
+}
+
+.connect-info {
+    display: inline-block;
+}
+
+.connect-getting {
+    margin-top: 20px;
+}
+
+.connect-info-icon>span {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0 10px;
+    color: #555;
+    text-transform: uppercase;
+}
+
+.connect-info-icon i {
+    color: #000;
+    font-size: 25px;
+}
+
+.google-map-connect iframe {
+    height: 450px;
+}
+
+/* ==============CONNECT SECTION END===============  */
+
+/* Media Query */
+
+@media (min-width:200px) and (max-width:600px) {
+    .c-h2 {
+
+        font-size: 25px;
+    }
+}
